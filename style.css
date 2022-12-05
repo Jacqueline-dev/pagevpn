@@ -1,4 +1,19 @@
-@font-face {
-  font-family: 'Rubik', sans-serif;
-  src: ('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+*,
+*:after,
+*:before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
 }
+body{
+  font-size: 100%;
+  list-style-type: none;
+}
+
+@font-face {
+  font-family:'Rubik', sem serifa; 
+  src: url('https://fonts.googleapis.com/css2?family= Rubik: wght @300;400;500 & display=swap');
+}
+
+
